@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\alışveriş-uygulama\alışveriş-uygulama\bin\Debug\alışveriş-uygulama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\alışveriş-uygulama\alışveriş-uygulama\bin\Debug\alışveriş-uygulama.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\alışveriş-uygulama\alışveriş-uygulama\bin\Debug\alışveriş-uygulama.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\alışveriş-uygulama\alışveriş-uygulama\obj\Debug\alışveriş-uygulama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\alışveriş-uygulama\alışveriş-uygulama\obj\Debug\alışveriş-uygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\alışveriş-uygulama\alışveriş-uygulama\obj\Debug\alışveriş_uygulama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\alışveriş-uygulama\alışveriş-uygulama\obj\Debug\alışveriş_uygulama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\alışveriş-uygulama\alışveriş-uygulama\obj\Debug\alışveriş-uygulama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\alışveriş-uygulama\alışveriş-uygulama\obj\Debug\alışveriş-uygulama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\alışveriş-uygulama\alışveriş-uygulama\obj\Debug\alışveriş-uygulama.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\alışveriş-uygulama\alışveriş-uygulama\obj\Debug\alışveriş-uygulama.pdb
